@@ -14,7 +14,10 @@
 
 ### > <img src="https://github.com/incandesc3nce/incandesc3nce/assets/62383010/5c758188-6dad-474b-bf3b-541a49eeb446" width="30" height="30" /> Realm 
 
+### > <img src="https://github.com/incandesc3nce/incandesc3nce/assets/62383010/28678f50-bfaa-4569-a044-3e8cc134b914" width="30" height="30" /> Firebase
+
 ### > <img src="https://github.com/incandesc3nce/incandesc3nce/assets/62383010/9741738a-9122-4afd-b57c-4c2155334ef0" width="40" height="30" /> GCD
+
 
 ## 🖌️Design
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
