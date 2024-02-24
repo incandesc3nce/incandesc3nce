@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Incandesc3nce)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello,+I'm+Dmitry+Tolmatov)](https://git.io/typing-svg)
 ### Welcome to my portfolio. I upload most of my Swift projects here. Feel free to check them out.
 
 # 👨‍💻Skills
