@@ -19,6 +19,8 @@
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![Notion](https://skillicons.dev/icons?i=notion&theme=light)](https://www.notion.so/)
 
 ## 🖥️OS
