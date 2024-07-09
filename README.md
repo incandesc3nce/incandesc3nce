@@ -29,8 +29,8 @@
 [![macOS](https://skillicons.dev/icons?i=apple)](https://github.com/incandesc3nce)
 
 ## 💻Coding
-### ![Codewars](https://www.codewars.com/users/incandesc3nce/badges/large)
-### ![Leetcode Stats](https://leetcard.jacoblin.cool/incandesc3nce)
+### [![Codewars](https://www.codewars.com/users/incandesc3nce/badges/large)](https://github.com/incandesc3nce)
+### [![Leetcode Stats](https://leetcard.jacoblin.cool/incandesc3nce)](https://github.com/incandesc3nce)
 
 
 # 📱Contact me
