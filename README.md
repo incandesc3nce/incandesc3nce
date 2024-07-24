@@ -28,7 +28,6 @@
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://github.com/incandesc3nce)
-[![C++](https://skillicons.dev/icons?i=cpp)](https://github.com/incandesc3nce)
 
 
 ### Development tools:
