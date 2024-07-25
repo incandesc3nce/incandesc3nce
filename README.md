@@ -8,6 +8,8 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/incandesc3nce)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
 
+[![React](https://skillicons.dev/icons?i=react)](https://sass-lang.com/)
+
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 
