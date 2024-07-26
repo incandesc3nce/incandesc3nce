@@ -7,13 +7,13 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/incandesc3nce)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/incandesc3nce)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
-
 [![React](https://skillicons.dev/icons?i=react)](https://sass-lang.com/)
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
 
 [![Webpack](https://skillicons.dev/icons?i=webpack)](https://webpack.js.org/)
+[![Vite](https://skillicons.dev/icons?i=vite)](https://vitejs.dev/)
 [![Jest](https://skillicons.dev/icons?i=jest)](https://jestjs.io/)
 
 ## 🖌️ Creativity
