@@ -42,6 +42,6 @@
 
 
 # 📱 Contact me
-### Porfolio website: coming soon
+### Portfolio website: coming soon
 ### Email: incandesc3ncee@gmail.com
 ### Telegram: [@incandesc3nce](https://t.me/incandesc3nce)
