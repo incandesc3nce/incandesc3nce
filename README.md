@@ -36,11 +36,12 @@
 [![Notion](https://skillicons.dev/icons?i=notion&theme=light)](https://www.notion.so/)
 
 ## 💻 Coding
-### [![Codewars](https://www.codewars.com/users/incandesc3nce/badges/large)](https://github.com/incandesc3nce)
-### [![Leetcode Stats](https://leetcard.jacoblin.cool/incandesc3nce)](https://github.com/incandesc3nce)
+[![Codewars](https://www.codewars.com/users/incandesc3nce/badges/large)](https://github.com/incandesc3nce)
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/incandesc3nce)](https://github.com/incandesc3nce)
 
 
 # 📱 Contact me
+### Porfolio website: coming soon
 ### Email: incandesc3ncee@gmail.com
 ### Telegram: [@incandesc3nce](https://t.me/incandesc3nce)
-### X: [@incandesc3nce_](https://x.com/incandesc3nce_)
