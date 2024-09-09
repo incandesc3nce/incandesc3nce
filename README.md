@@ -23,7 +23,6 @@
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org/)
 [![Swift](https://skillicons.dev/icons?i=swift)](https://www.swift.org/)
-[![Java](https://skillicons.dev/icons?i=java)](https://github.com/incandesc3nce)
 
 
 ## Development tools:
@@ -36,9 +35,9 @@
 [![Notion](https://skillicons.dev/icons?i=notion&theme=light)](https://www.notion.so/)
 
 ## 💻 Coding
-[![Codewars](https://www.codewars.com/users/incandesc3nce/badges/large)](https://github.com/incandesc3nce)
+[![Codewars](https://www.codewars.com/users/incandesc3nce/badges/large)](https://www.codewars.com/users/incandesc3nce)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/incandesc3nce)](https://github.com/incandesc3nce)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/incandesc3nce)](https://leetcode.com/u/incandesc3nce/)
 
 
 # 📱 Contact me
