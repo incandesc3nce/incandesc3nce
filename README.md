@@ -4,10 +4,12 @@
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/incandesc3nce)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/incandesc3nce)
 [![Sass](https://skillicons.dev/icons?i=sass)](https://sass-lang.com/)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com/)
 
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://github.com/incandesc3nce)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 
 [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 [![Express.js](https://skillicons.dev/icons?i=express)](https://expressjs.com/)
