@@ -46,3 +46,5 @@
 ### Portfolio website: coming soon
 ### Email: incandesc3ncee@gmail.com
 ### Telegram: [@incandesc3nce](https://t.me/incandesc3nce)
+
+[![](https://visitcount.itsvg.in/api?id=incandesc3nce&label=Profile%20Views&color=6&icon=5&pretty=false)](https://visitcount.itsvg.in)
