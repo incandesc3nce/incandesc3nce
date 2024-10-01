@@ -9,7 +9,7 @@ other languages whenever necessary. I find great joy in creating projects and ex
 with various concepts.
 Feel free to check out some of my projects!
 
-# 🔨 Skills
+# 🔨 Tools
 
 [![HTML](https://skillicons.dev/icons?i=html)](https://github.com/incandesc3nce)
 [![CSS](https://skillicons.dev/icons?i=css)](https://github.com/incandesc3nce)
