@@ -31,6 +31,7 @@ Feel free to check out some of my projects!
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 [![Linux](https://skillicons.dev/icons?i=linux&theme=light)](https://github.com/incandesc3nce)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://github.com/incandesc3nce)
 [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://github.com/incandesc3nce)
 
 # 💻 Coding
