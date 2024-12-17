@@ -34,18 +34,11 @@ Feel free to check out some of my projects!
 [![Docker](https://skillicons.dev/icons?i=docker)](https://github.com/incandesc3nce)
 [![Obsidian](https://skillicons.dev/icons?i=obsidian)](https://github.com/incandesc3nce)
 
-# 💻 Coding
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/incandesc3nce)](https://leetcode.com/u/incandesc3nce/)
-
-[![Codewars](https://www.codewars.com/users/incandesc3nce/badges/large)](https://www.codewars.com/users/incandesc3nce)
-
-
 # 📱 Contact me
-### Portfolio website: coming soon
+### Social links: [leans.fun/dev](https://leans.fun/dev)
 
 ### Email: incandesc3ncee@gmail.com
 
-### Social links: [leans.fun/dev](https://leans.fun/dev)
+### Portfolio website: coming soon
 
 [![](https://visitcount.itsvg.in/api?id=incandesc3nce&label=Profile%20Views&color=6&icon=5&pretty=false)](https://github.com/incandesc3nce)
