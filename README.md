@@ -1,6 +1,6 @@
 # ⚡ About me
 
-`Software Engineer` `Web Developer` `Serial Entrepreneur`
+`Software Engineer` `Web Developer`
 
 Hi! My name is Dmitry. I'm pursuing a degree in Computer Science and Engineering, 
 and I'm putting in a lot of effort to improve my skills in this field. I specialise in
