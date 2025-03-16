@@ -38,7 +38,7 @@ Feel free to check out some of my projects!
 
 # 📱 Contact me
 
-### Social links: [leans.fun/dev](https://leans.fun/dev)
+### Social links: [leans.fun/soydev](https://leans.fun/soydev)
 
 ### Email: incandesc3ncee@gmail.com
 
